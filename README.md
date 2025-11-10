@@ -33,8 +33,6 @@ Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how a
 - Revenue, Cost of Sales, Operating Expenses, Gross Profit, EBIT, EPS  
 - Segmentation by Product, Brand, and Geography  
 
-> 🕵️‍♀️ *Note:* Due to data sensitivity, only a **sample anonymized dataset** is included in the `/data/sample/` folder.
-
 ---
 
 ## ⚙️ Project Tasks
