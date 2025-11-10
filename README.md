@@ -95,19 +95,7 @@ Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how a
 | **Formatting** | Accounting Number Style, Conditional Formatting, Named Ranges |
 | **Visualization** | Combo Chart (Revenue vs. EBIT Margin), Data Bars |
 | **Automation** | Optional VBA Macro for chart export and workbook refresh |
-| **Analysis Skills** | Financial Trend Analysis, Margin Evaluation, Profitability Insights |
-
----
-
-## 📊 Deliverables
-- `excel/adidas_pl_master.xlsx` — final workbook with calculations and charts  
-- `excel/template_pl.xlsx` — blank template for future use  
-- `reports/images/hero_revenue_ebit.png` — visualization for quick reference  
-- `docs/how_to_use_excel.md` — guide to refresh with new Bloomberg data  
-- `data/sample/` — anonymized sample dataset  
-
----
-
+| **Analysis Skills** | Financial Trend Analysis, Margin Evaluation, Profitability Insights |  
 
 ---
 
@@ -120,25 +108,9 @@ Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how a
 
 ---
 
-## 💼 Resume-Ready Summary
-> “Transformed Bloomberg financial exports into a structured, analytical P&L in Excel.  
-> Automated data lookups, calculated profitability metrics, and built visual dashboards for management review.  
-> Identified revenue CAGR of 7.33% and EBIT margin improvement from 5% to 9%, highlighting strategic efficiency.”
-
----
-
-## 🧱 How to Use
-1. Clone or download this repository.  
-2. Place new Bloomberg extract in `/data/raw/`.  
-3. Open `excel/adidas_pl_master.xlsx` and refresh formulas / queries.  
-4. Review the chart on *Revenue vs. EBIT Margin*.  
-5. Export updated visuals to `/reports/images/`.  
-
----
-
-## 🔒 Privacy Notice
-Raw Bloomberg data is confidential and cannot be redistributed.  
-Only the data structure and anonymized samples are included for demonstration.
+## 🔒 License & Privacy Notice 
+This project uses publicly available Bloomberg data for educational purposes only.  
+No proprietary or confidential company information is shared.
 
 ---
 
