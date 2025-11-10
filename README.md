@@ -1,9 +1,7 @@
-# Analysis_and_Visualization_of_P-AND-L_Data-_Excel-
-Financial data from Bloomberg terminals is rich and valuable but it rarely comes ready for decision-making. This project showcases how I transformed raw, unformatted Bloomberg exports into a clean, interactive Profit &amp; Loss (P&amp;L) analysis using Excel.
-
-
 # 📊 Analysis & Visualization of P&L Data in Excel  
 **Organizing, Visualizing, and Analyzing Financial Information Downloaded from Bloomberg**
+
+Financial data from Bloomberg terminals is rich and valuable but it rarely comes ready for decision-making. This project showcases how I transformed raw, unformatted Bloomberg exports into a clean, interactive Profit &amp; Loss (P&amp;L) analysis using Excel.
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green?logo=microsoft-excel&logoColor=white)
 ![Project Type](https://img.shields.io/badge/Type-Financial%20Analysis-blue)
@@ -110,4 +108,58 @@ Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how a
 
 ---
 
-## 🧩 Repository Structure
+
+---
+
+## 🧾 Executive Summary (Highlights)
+- Revenue CAGR (2019–2023): **7.33%**  
+- Retail Segment CAGR: **14.49%**  
+- Gross Profit Margin: **46% → 50%**  
+- EBIT Margin: **5% → 9%**  
+- Conclusion: Adidas maintained robust growth while expanding profitability — demonstrating disciplined cost control, effective pricing strategy, and operational efficiency.
+
+---
+
+## 💼 Resume-Ready Summary
+> “Transformed Bloomberg financial exports into a structured, analytical P&L in Excel.  
+> Automated data lookups, calculated profitability metrics, and built visual dashboards for management review.  
+> Identified revenue CAGR of 7.33% and EBIT margin improvement from 5% to 9%, highlighting strategic efficiency.”
+
+---
+
+## 🧱 How to Use
+1. Clone or download this repository.  
+2. Place new Bloomberg extract in `/data/raw/`.  
+3. Open `excel/adidas_pl_master.xlsx` and refresh formulas / queries.  
+4. Review the chart on *Revenue vs. EBIT Margin*.  
+5. Export updated visuals to `/reports/images/`.  
+
+---
+
+## 🔒 Privacy Notice
+Raw Bloomberg data is confidential and cannot be redistributed.  
+Only the data structure and anonymized samples are included for demonstration.
+
+---
+
+## 🏁 Project Status
+✅ Completed — available for review and portfolio showcase  
+📅 Period: FY 2019–2023  
+👤 Analyst: *Nishi*  
+
+---
+
+## 🧠 Learnings
+- Excel can rival BI tools in financial analytics when structured properly.  
+- Clean design and storytelling elevate technical work to business value.  
+- Consistency, automation, and readability make analyses repeatable and professional.
+
+---
+
+### ⭐ If you found this project interesting  
+Give it a ⭐ on GitHub and connect with me on [LinkedIn](#) to discuss financial analytics and Excel automation!
+
+---
+
+© 2025 Nishi — All rights reserved.
+
