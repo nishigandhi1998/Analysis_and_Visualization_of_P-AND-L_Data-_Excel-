@@ -1,7 +1,7 @@
 # 📊 Analysis & Visualization of P&L Data in Excel  
 **Organizing, Visualizing, and Analyzing Financial Information Downloaded from Bloomberg**
 
-Financial data from Bloomberg terminals is rich and valuable but it rarely comes ready for decision-making. This project showcases how I transformed raw, unformatted Bloomberg exports into a clean, interactive Profit &amp; Loss (P&amp;L) analysis using Excel.
+Financial data from Bloomberg terminals is rich and valuable, but it rarely comes ready for decision-making. This project showcases how I transformed raw, unformatted Bloomberg exports into a clean, interactive Profit &amp; Loss (P&amp;L) analysis using Excel.
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-green?logo=microsoft-excel&logoColor=white)
 ![Project Type](https://img.shields.io/badge/Type-Financial%20Analysis-blue)
@@ -13,14 +13,14 @@ Financial data from Bloomberg terminals is rich and valuable but it rarely comes
 ## 🧭 Project Overview
 This project demonstrates how to **transform raw Bloomberg financial data** into a clean, analytical, and presentation-ready **Profit & Loss (P&L) analysis in Excel**.
 
-Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how advanced Excel functions, formatting, and visualization techniques can convert complex datasets into **actionable business insights**.
+Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how advanced Excel functions, formatting, and visualisation techniques can convert complex datasets into **actionable business insights**.
 
 ---
 
 ## 🎯 Objectives
 - Structure and format Bloomberg-exported financial data into a concise, professional P&L.  
 - Calculate **key financial metrics** such as Gross Profit Margin, EBIT Margin, and Revenue CAGR.  
-- Visualize growth and profitability trends with clear, management-friendly charts.  
+- Visualise growth and profitability trends with clear, management-friendly charts.  
 - Interpret results and communicate findings through a one-page executive summary.
 
 ---
@@ -53,7 +53,7 @@ Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how a
     =(F2/B2)^(1/(2023-2019))-1
     ```
 
-### **Task 3: Create Visualization**
+### **Task 3: Create Visualisation**
 - Built a **combo chart**:  
   - *Bars* = Revenue  
   - *Line* = EBIT Margin (%)  
@@ -61,7 +61,7 @@ Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how a
 
 ### **Task 4: Interpret the Data**
 - Compared Adidas’ P&L between 2019 and 2023 to identify growth and efficiency trends.  
-- Summarized insights in an **executive summary sheet** and `reports/` folder.
+- Summarised insights in an **executive summary sheet** and `reports/` folder.
 
 ---
 
@@ -91,7 +91,7 @@ Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how a
 | **Spreadsheet Tool** | Microsoft Excel |
 | **Functions Used** | SUMIFS, XLOOKUP, CAGR formula, Percentage Calculations |
 | **Formatting** | Accounting Number Style, Conditional Formatting, Named Ranges |
-| **Visualization** | Combo Chart (Revenue vs. EBIT Margin), Data Bars |
+| **Visualisation** | Combo Chart (Revenue vs. EBIT Margin), Data Bars |
 | **Automation** | Optional VBA Macro for chart export and workbook refresh |
 | **Analysis Skills** | Financial Trend Analysis, Margin Evaluation, Profitability Insights |  
 
@@ -128,8 +128,9 @@ Credit: 365 DATA SCIENCE
 ---
 
 ### ⭐ If you found this project interesting  
-Give it a ⭐ on GitHub and connect with me on [LinkedIn](#) to discuss financial analytics and Excel automation!
+Give it a ⭐ on GitHub and connect with me to discuss financial analytics and Excel automation!
 
+For more details or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishigandhianalyst/) and [Email](nishigandhi1998@gmail.com).
 ---
 
 © 2025 Nishi — All rights reserved.
