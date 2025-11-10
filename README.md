@@ -106,12 +106,6 @@ Using Adidas (Ticker: *ADS GY Equity*) as the focus, the project showcases how a
 
 ---
 
-## 🔒 License & Privacy Notice 
-This project uses publicly available Bloomberg data for educational purposes only.  
-No proprietary or confidential company information is shared.
-
----
-
 ## 🏁 Project Status
 ✅ Completed — available for review and portfolio showcase  
 📅 Period: FY 2019–2023  
@@ -123,6 +117,13 @@ No proprietary or confidential company information is shared.
 - Excel can rival BI tools in financial analytics when structured properly.  
 - Clean design and storytelling elevate technical work to business value.  
 - Consistency, automation, and readability make analyses repeatable and professional.
+
+---
+
+## 🔒 License & Privacy Notice 
+This project uses publicly available Bloomberg data for educational purposes only.  
+No proprietary or confidential company information is shared.
+Credit: 365 DATA SCIENCE
 
 ---
 
